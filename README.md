@@ -1,12 +1,9 @@
 # TDD - Jest Testing
 
-## What I Learned
+Exploring TDD methodology: **Red** (write failing tests), **Green** (write minimal code to pass tests), **Refactor** (improve code quality).
 
 Mastered Jest testing fundamentals: writing unit tests, using assertions with `expect()`, testing functions with various inputs, and validating edge cases. Built test-driven development skills for validating utility functions like array filtering, string parsing, password validation, and date handling.
 
-### Red-Green-Refactor Cycle
-
-Understood the TDD methodology: **Red** (write failing tests), **Green** (write minimal code to pass tests), **Refactor** (improve code quality). This cycle ensures robust, well-tested functions from the ground up.
 
 ## Key Tests
 

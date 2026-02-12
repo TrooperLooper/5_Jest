@@ -1,4 +1,4 @@
-// Array Uniquer function
+// This is an Array Uniquer function
 
 function arrayUniquer(arr) {
   let result = [];
